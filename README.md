@@ -13,5 +13,5 @@ Within the `main.py` script edit the the variables when calling the `main` funct
 
 ```python
 if __name__ == "__main__":
-  main("C:/Users/name/downloads/sentinel2", "C:/Users/name/downloads/Sen2Cor-02.11.00-win64/L2A_Process.bat
+  main("C:/Users/name/downloads/sentinel2", "C:/Users/name/downloads/Sen2Cor-02.11.00-win64/L2A_Process.bat")
 ```
